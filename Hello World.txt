@@ -1,2 +1,2 @@
-print("HELLO WORLD AND KARAKALPAKSTAN")
-print("Hello Everybody")
+print("HELLO WORLD AND KARAKALPAKSTAN;")
+print("Hello Everybody;")
