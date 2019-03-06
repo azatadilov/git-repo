@@ -1,3 +1,2 @@
 print("HELLO WORLD AND KARAKALPAKSTAN")
 print("Hello Everybody")
-print("Hello")
